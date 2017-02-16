@@ -9,9 +9,11 @@ h1 {
 
 img {
   width: 200px;
+  float: right;
   border: 3px solid teal;
   /* 
   border-style: solid;
   border-size: 3px;
   border-color: viridian; */
 }
+
